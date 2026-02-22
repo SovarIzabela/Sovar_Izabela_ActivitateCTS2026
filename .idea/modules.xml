@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/00_RecapJava/00_RecapJava.iml" filepath="$PROJECT_DIR$/00_RecapJava/00_RecapJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Singleton/01_Singleton.iml" filepath="$PROJECT_DIR$/01_Singleton/01_Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_Factory/02_Factory.iml" filepath="$PROJECT_DIR$/02_Factory/02_Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Prototype/03_Prototype.iml" filepath="$PROJECT_DIR$/03_Prototype/03_Prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Builder/04_Builder.iml" filepath="$PROJECT_DIR$/04_Builder/04_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sovar_Izabela_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Sovar_Izabela_ActivitateCTS2026.iml" />
     </modules>
   </component>
