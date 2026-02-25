@@ -5,7 +5,6 @@ public abstract class Magazin {
     private String denumireMagazin;
     private int nrAngajati;
     private String adresa;
-
     public static final String TARA = "Romania";
     private static int nrMagazine;
 
@@ -50,6 +49,16 @@ public abstract class Magazin {
 
 
     public String afiseazaComun() {
+        final StringBuilder sb = new StringBuilder("Magazin{");
+        sb.append("denumireMagazin='").append(denumireMagazin).append('\'');
+        sb.append(", nrAngajati=").append(nrAngajati);
+        sb.append(", adresa='").append(adresa).append('\'');
+        sb.append('}');
+        return sb.toString();
+    }
+
+    @Override
+    public String toString() {
         final StringBuilder sb = new StringBuilder("Magazin{");
         sb.append("denumireMagazin='").append(denumireMagazin).append('\'');
         sb.append(", nrAngajati=").append(nrAngajati);
