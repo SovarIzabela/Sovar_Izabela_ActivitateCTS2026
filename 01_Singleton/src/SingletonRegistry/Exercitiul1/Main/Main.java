@@ -1,6 +1,6 @@
-package SingletonRegistry.Main;
+package SingletonRegistry.Exercitiul1.Main;
 
-import SingletonRegistry.Classes.Piata;
+import SingletonRegistry.Exercitiul1.Classes.Piata;
 
 public class Main {
 

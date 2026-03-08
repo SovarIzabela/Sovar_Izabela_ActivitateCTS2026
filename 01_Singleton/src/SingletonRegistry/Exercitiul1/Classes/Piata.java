@@ -1,4 +1,4 @@
-package SingletonRegistry.Classes;
+package SingletonRegistry.Exercitiul1.Classes;
 
 import java.util.HashMap;
 import java.util.Map;
