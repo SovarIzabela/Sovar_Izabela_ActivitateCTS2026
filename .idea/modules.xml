@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/03_Prototype/03_Prototype.iml" filepath="$PROJECT_DIR$/03_Prototype/03_Prototype.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_Builder/04_Builder.iml" filepath="$PROJECT_DIR$/04_Builder/04_Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/05_Strategy/05_Strategy.iml" filepath="$PROJECT_DIR$/05_Strategy/05_Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_Adapter/06_Adapter.iml" filepath="$PROJECT_DIR$/06_Adapter/06_Adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Decorator/07_Decorator.iml" filepath="$PROJECT_DIR$/07_Decorator/07_Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Facade/08_Facade.iml" filepath="$PROJECT_DIR$/08_Facade/08_Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sovar_Izabela_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Sovar_Izabela_ActivitateCTS2026.iml" />
     </modules>
   </component>
