@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/06_Adapter/06_Adapter.iml" filepath="$PROJECT_DIR$/06_Adapter/06_Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/07_Decorator/07_Decorator.iml" filepath="$PROJECT_DIR$/07_Decorator/07_Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/08_Facade/08_Facade.iml" filepath="$PROJECT_DIR$/08_Facade/08_Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Composite/09_Composite.iml" filepath="$PROJECT_DIR$/09_Composite/09_Composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_Flyweight/10_Flyweight.iml" filepath="$PROJECT_DIR$/10_Flyweight/10_Flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_Proxy/11_Proxy.iml" filepath="$PROJECT_DIR$/11_Proxy/11_Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sovar_Izabela_ActivitateCTS2026.iml" filepath="$PROJECT_DIR$/Sovar_Izabela_ActivitateCTS2026.iml" />
     </modules>
   </component>
