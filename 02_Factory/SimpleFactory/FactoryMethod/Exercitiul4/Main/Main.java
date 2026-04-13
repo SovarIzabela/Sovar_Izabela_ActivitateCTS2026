@@ -1,9 +1,5 @@
 package FactoryMethod.Exercitiul4.Main;
 
-import Exercitiul4.Classes.Atacant;
-import Exercitiul4.Classes.Fundas;
-import Exercitiul4.Classes.ISportiv;
-import Exercitiul4.Classes.Portar;
 import FactoryMethod.Exercitiul4.Classes.*;
 
 public class Main {

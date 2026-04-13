@@ -1,8 +1,8 @@
-package Exercitiul4.Main;
+package exercitiul4.Main;
 
-import Exercitiul4.Classes.ETipSportiv;
-import Exercitiul4.Classes.Factory;
-import Exercitiul4.Classes.ISportiv;
+import exercitiul4.Classes.ETipSportiv;
+import exercitiul4.Classes.Factory;
+import exercitiul4.Classes.ISportiv;
 
 public class Main {
 

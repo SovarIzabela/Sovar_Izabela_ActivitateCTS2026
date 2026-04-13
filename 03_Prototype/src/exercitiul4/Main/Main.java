@@ -1,7 +1,7 @@
-package Exercitiul4.Main;
+package exercitiul4.Main;
 
-import Exercitiul4.Classes.AMijlocTransport;
-import Exercitiul4.Classes.Autobuz;
+import exercitiul4.Classes.AMijlocTransport;
+import exercitiul4.Classes.Autobuz;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package Exercitiul4.Classes;
+package exercitiul4.Classes;
 
 public interface ISportiv {
 

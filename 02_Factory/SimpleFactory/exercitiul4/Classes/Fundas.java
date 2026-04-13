@@ -1,6 +1,6 @@
-package Exercitiul4.Classes;
+package exercitiul4.Classes;
 
-public class Portar implements ISportiv{
+public class Fundas implements ISportiv{
 
 
     private String numeSportiv;
@@ -9,22 +9,22 @@ public class Portar implements ISportiv{
     private String echipa;
     private String liga;
 
-    public Portar(String numeSportiv, int varsta, int numarTricou, String echipa, String liga) {
+    public Fundas(String numeSportiv, int varsta, int numarTricou, String liga, String echipa) {
         this.numeSportiv = numeSportiv;
         this.varsta = varsta;
         this.numarTricou = numarTricou;
-        this.echipa = echipa;
         this.liga = liga;
+        this.echipa = echipa;
     }
 
     @Override
     public void descriere() {
-        System.out.println("Acesta este un portar");
+        System.out.println("Acesta este un fundas");
     }
 
     @Override
     public String toString() {
-        final StringBuilder sb = new StringBuilder("Portar{");
+        final StringBuilder sb = new StringBuilder("Fundas{");
         sb.append("numeSportiv='").append(numeSportiv).append('\'');
         sb.append(", varsta=").append(varsta);
         sb.append(", numarTricou=").append(numarTricou);
