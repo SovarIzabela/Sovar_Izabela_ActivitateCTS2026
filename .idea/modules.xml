@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/013_Observer/013_Observer.iml" filepath="$PROJECT_DIR$/013_Observer/013_Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/014_Command/014_Command.iml" filepath="$PROJECT_DIR$/014_Command/014_Command.iml" />
       <module fileurl="file://$PROJECT_DIR$/015_Template/015_Template.iml" filepath="$PROJECT_DIR$/015_Template/015_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/016_ChainOfResponsability/016_ChainOfResponsability.iml" filepath="$PROJECT_DIR$/016_ChainOfResponsability/016_ChainOfResponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017_Memento/017_Memento.iml" filepath="$PROJECT_DIR$/017_Memento/017_Memento.iml" />
       <module fileurl="file://$PROJECT_DIR$/01_Singleton/01_Singleton.iml" filepath="$PROJECT_DIR$/01_Singleton/01_Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_Factory/02_Factory.iml" filepath="$PROJECT_DIR$/02_Factory/02_Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/03_Prototype/03_Prototype.iml" filepath="$PROJECT_DIR$/03_Prototype/03_Prototype.iml" />
