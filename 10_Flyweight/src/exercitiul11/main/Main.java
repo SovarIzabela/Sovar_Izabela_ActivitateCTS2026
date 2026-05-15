@@ -10,6 +10,7 @@ public class Main {
 
 
 
+
         Flyweight flyweight = new Flyweight();
        PictogramaFacilitate p1=  flyweight.getPictograma("Pictograma 1", " verde");
        p1.afiseaza(12, 14, "parcare");
